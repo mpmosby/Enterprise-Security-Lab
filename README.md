@@ -32,7 +32,7 @@ The environment simulates a corporate network with a firewall, segmentation, Act
 The lab began by installing **pfSense** on a dedicated VM that would serve as the lab's router and firewall. During the initial configuration:  
 - Created three interfaces: **WAN**, **ECORP LAN**, and **Attack LAN**.  
 - Enabled **DHCP services** for the LAN networks to provide IP addresses to connected hosts.  
-- Validated network connectivity by logging into the pfSense web interface from the Windows 11 host.
+- Validated network connectivity by logging into the pfSense web interface from the Windows 11 host (previously installed).
 - Began configuring the firewall, including changing default credentials.
 - Set a static IP address for the Windows 11 client.
 

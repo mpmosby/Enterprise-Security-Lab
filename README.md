@@ -21,6 +21,8 @@ The environment simulates a corporate network with a firewall, segmentation, Act
 
 > **Segmentation:** ECORP LAN is fully segmented from the Attack LAN and internet access is tightly controlled through pfSense firewall rules.
 
+### Diagram
+![Network Diagram](images/network-diagram.png)
 ---
 
 ## 3. Environment Buildout

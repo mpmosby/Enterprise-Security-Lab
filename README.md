@@ -141,6 +141,5 @@ This environment will be used in **Part 2: Mr. Robot Red/Blue Team Exercise**, w
 - Simulate attacks from the Attack LAN (Kali) targeting ECORP LAN hosts  
 - Detect and respond using Sysmon, Splunk, and firewall logs  
 
-**Full image set:** [See all screenshots in the images folder](images/)
 
 
